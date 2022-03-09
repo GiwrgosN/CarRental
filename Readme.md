@@ -1,8 +1,7 @@
-Το Car Rental είναι ένα project για το μάθημα Βάσεις Δεδομένων του ΕΜΠ.
+# Car Rental is a project for the NTUA Databases course.
 
-ΟΔΗΓΙΕΣ
+INSTRUCTIONS
 
-Μετακινήστε τα περιεχόμενα του htdocs στον φάκελο htdocs του xampp.
-Τρέξτε στην βάση που χρησιμοποιείτε το create-database.sql και initialize-data.sql.
-Τρέξτε τον apache και ανοίξτε έναν browser στην τοποθεσία localhost για να χρησιμοποιήσετε την εφαρμογή.
-
+1. Move the contents of the htdocs to the xampp htdocs folder. 
+2. Run the database that you use to create-database.sql and initialize-data.sql.
+3. Run apache and open a browser on the localhost site to use the application.
