@@ -53,4 +53,5 @@ The following are the tasks for the third part of the project:
 - DRIVER class has two super classes CHAUFFEUR and SELF. Customer can select any mode of driving. It has foreign key attribute to DRIVER crelation.
 - CAR entity has six disjoint subclasses (Specialization) which has been done on Type attribute. Single Relation Mapping technique has been used here.
 - All 1:1 relationships has been mapped using foreign key technique.
-Note: The Schema Diagram is present in the folder as Schema_Diagram.pdf
+
+
