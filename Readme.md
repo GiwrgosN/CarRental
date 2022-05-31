@@ -1,6 +1,6 @@
 # Car Rental is a project for the NTUA Databases course.
 
-##Online Car Rental System##
+## Online Car Rental System ##
 
 Design and implement a database for keeping track of information about a car rental company. 
 
