@@ -18,4 +18,4 @@ An application which implements a user interface for a car rental business. It e
 3. Setup a php server and copy the `htdocs` contents to your php server deployment location (for development preferably choose xampp)
 
 
-The E-D diagram of the database is located on the file: 
+The E-D diagram of the database is located on the file phpmyadmin-relational.png in the current folder.
