@@ -11,7 +11,7 @@ An application which implements a user interface for a car rental business. It e
     - jQuery
 
 ## Deploy
-1. Run mysql server with and set a desired user and password.
+1. Run mysql server and set a desired user and password.
     - Run `create-database.sql` with your mysql client to create the database schema.
     - (Optionally) Run `initialize-data.sql` for mock data.
 2. Modify `htdocs/php/common.php` and set the mysql user and password.
